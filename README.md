@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Navdeep Jaswal  
 
-💻 Full-Stack Developer based in **New York City**, with 4+ years of experience building web apps and delivering polished product experiences.  
+💻 Full-Stack Developer based in **New York City**, with 5+ years of experience building web apps and delivering polished product experiences.  
 🌱 Passionate about scaling solutions, writing clean & maintainable code, and turning ideas into reality.  
 
 ---
@@ -49,5 +49,5 @@ Here are some that I’ve pinned or recently worked on:
 <p align="left">
   <a href="https://my-portfolio-site-khaki.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/navdeep-jaswal-9391b0115/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:navdeepjaswal2@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:navdeepjaswal1@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
 </p>
