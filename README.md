@@ -37,14 +37,6 @@ Here are some that I’ve pinned or recently worked on:
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=navdeepjaswal&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepjaswal&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
-</p>
-
----
-
 ### 📫 Let’s Connect  
 <p align="left">
   <a href="https://my-portfolio-site-khaki.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
